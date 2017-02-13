@@ -7,6 +7,8 @@ the real intresting stuff is inside the "points_processing1.php"
 below is a copy of the report that my processing page expects to reeive once you get to the end of reading let me know and i will explane any of this your unsure about have fun gaining a headache :D
                                                                                          cheers mick... AKA baxt01
 
+oh yes once all the processing is over i need to be able to allow players to view the points from a pageview with a default of this months points and an option of reading backward month by month or a running total of points from joining time
+
 Nojoks's Tourney Bracket Tool Version 1.2.1.84
 Tournament:  3/5 Backgammon 1:00pm
 Date:  02/13/2017
